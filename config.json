@@ -35,10 +35,11 @@
         }
     },
     "main": {
-        "token": "",
-        "userid": "",
-        "channelid": "",
-        "owodmchannelid": "",
+        "token": "
+MTAyNDYzMjAzNjUxMTcxOTQ2NA.Gval12.ZzhdwjIfa9nUj74MX28l1VqZmw5jXWKwVDcjfU",
+        "userid": "1024632036511719464",
+        "channelid": "1051063747810185268",
+        "owodmchannelid": "1035189647711666257",
         "autoquestchannelid": ""
     },
     "extra": {
